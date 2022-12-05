@@ -7,10 +7,12 @@
 
 ### **Diffuser Fins**
 
+![Overview](DiffuserFin/Photos/DiffuserFins-2.jpg)
+
 The following hardware is required to mount the fins:
 - 6 x M3 x 25mm screws
 - 6 x M3 x 16mm screws
-- [3M molding tape](https://www.amazon.ca/gp/product/B000BO913C/ref=ppx_yo_dt_b_asin_title_o02_s00?ie=UTF8&psc=1)
+- 3M molding tape, or any automotive tape. I used this [one](https://www.amazon.ca/gp/product/B000BO913C/ref=ppx_yo_dt_b_asin_title_o02_s00?ie=UTF8&psc=1).
 - Philips head screwdriver that is atleast 5 mm long
 - Ruler
 - Marker
