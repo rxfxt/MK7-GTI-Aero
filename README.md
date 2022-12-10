@@ -52,6 +52,6 @@ Use the M3 x 16mm screws to screw the top of each fin into the diffuser. Then us
 
 Verify that the fins fit well and are flush with the diffuser.
 
-## To Do:
+## Upcoming parts:
 - Add front dive planes (canards)
 - Add rear bumper spats
